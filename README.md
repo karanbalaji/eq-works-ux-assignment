@@ -1,5 +1,5 @@
 # Eq Works Ux Assignment 
-## Slides: https://docs.google.com/presentation/d/185R-mK4y9ER7qxW7AzVe8mkEJNT0fEVnhsIbUr68oiU/edit#slide=id.ge78df59fd5_0_574
+Slides: https://docs.google.com/presentation/d/185R-mK4y9ER7qxW7AzVe8mkEJNT0fEVnhsIbUr68oiU/edit#slide=id.ge78df59fd5_0_574
 ## The Idea:
 Simple Ecommerce dashboard to make effective decisions based on time.
 ## Why this idea:
